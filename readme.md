@@ -1,6 +1,3 @@
-Certainly! Here's a basic template for a README.md file for the DSAPy package:
-
-```markdown
 # DSAPy
 
 DSAPy is a Python package that provides implementations of various data structures and algorithms.
@@ -9,7 +6,7 @@ DSAPy is a Python package that provides implementations of various data structur
 
 You can install DSAPy using pip:
 
-```bash
+```
 pip install DSAPy
 ```
 
