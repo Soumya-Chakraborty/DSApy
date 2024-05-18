@@ -1,5 +1,11 @@
 # DSAPy
 
+<p align=center>
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+<a href="https://github.com/Soumya-Chakraborty/DSApy/releases"><img src="https://badgen.net/github/release/Soumya-Chakraborty/DSApy">
+<a href="https://github.com/Soumya-Chakraborty/DSApy/graphs/commit-activity"><img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg">
+<a href="https://github.com/Soumya-Chakraborty/DSApy/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Soumya-Chakraborty/DSApy ">
+
 DSAPy is a Python package that provides implementations of various data structures and algorithms.
 
 ## Installation
