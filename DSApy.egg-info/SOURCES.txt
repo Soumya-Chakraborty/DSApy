@@ -1,0 +1,7 @@
+LICENSE
+setup.py
+DSApy.egg-info/PKG-INFO
+DSApy.egg-info/SOURCES.txt
+DSApy.egg-info/dependency_links.txt
+DSApy.egg-info/requires.txt
+DSApy.egg-info/top_level.txt

@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "DSApy"
+version = "0.1.0"
+description = "This is a module to use basic DSApy functionality"
+authors = [
+    { name = "Soumya Chakraborty", email = "soumyachakraborty198181@gmail.com" }
+]
+dependencies = [
+    "numpy",
+    "pandas",
+]
